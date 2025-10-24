@@ -1,0 +1,11 @@
+value,log_level
+17/06/08 19:53:24 INFO executor.Executor: Finished task 21.0 in stage 6965.0 (TID 278662). 2364 bytes result sent to driver,INFO
+17/06/08 17:30:17 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 12504,INFO
+17/06/08 15:17:13 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 5350,INFO
+17/06/09 16:00:32 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1,INFO
+17/06/08 20:10:29 INFO broadcast.TorrentBroadcast: Reading broadcast variable 7461 took 4 ms,INFO
+17/06/07 15:41:54 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 12108,INFO
+17/06/06 22:11:26 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 3953,INFO
+17/06/09 11:07:48 INFO executor.Executor: Running task 6.0 in stage 2247.0 (TID 89927),INFO
+17/06/09 11:08:55 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 78149,INFO
+17/06/06 21:40:05 INFO executor.Executor: Running task 13.0 in stage 324.0 (TID 13011),INFO
