@@ -93,7 +93,9 @@ This indicates that the workload is dominated by short jobs, with only a few lon
 ---
 
 ### **Spark Web UI Observations**
-*(Include screenshots in submission if required)*
+
+![8080](8080.png)
+![4040](4040.png)
 
 - **Jobs tab:** Majority of jobs completed within 5 seconds.  
 - **Stages tab:** Shuffle read/write metrics show balanced data flow.  
